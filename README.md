@@ -19,6 +19,7 @@
 - 🌍 Based in **Mohali, Punjab, India**
 - 💼 Fullstack Developer passionate about building scalable web applications
 - 🌐 Check out Utility Tools: [UtilityOne](https://utilityone.in/)
+- 🎮 Check out The Gaming Legacy: [Gloriousgamz](https://gloriousgamz.xyz/)
 - 🌐 Check out my portfolio: [knowledgedoom.vercel.app](https://knowledgedoom.vercel.app/)
 - 📬 Reach me at: [akashdeep9226@gmail.com](mailto:akashdeep9226@gmail.com)
 - 📬 My CV App at: [CV Generator App](https://cv-generator-akash-p1.vercel.app/)
